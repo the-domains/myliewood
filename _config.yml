@@ -1,7 +1,7 @@
 name: Myliewood
 favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.4604707339312881
+layout_spectrum: 0.99795
+typography_spectrum: 0.62731
 title: Título
 cta:
   domain: null
@@ -23,7 +23,7 @@ color:
     - '#4572a1'
     - '#7fcfe2'
   brandStrength: 0.625
-  lightness: 0.3664877759292722
-  saturation: 0.5746117455419153
+  lightness: 0.5
+  saturation: 0.625
   rhythmicContrast: 0.5749605181626976
 purpose: []
