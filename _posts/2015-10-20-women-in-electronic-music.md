@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2015-10-20T12:08:39.707Z'
-dateModified: '2015-10-20T12:07:52.512Z'
+datePublished: '2015-10-20T12:09:04.339Z'
+dateModified: '2015-10-20T12:08:58.146Z'
 title: Women in electronic music
 sourcePath: _posts/2015-10-20-women-in-electronic-music.md
 published: true
