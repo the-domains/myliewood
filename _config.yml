@@ -2,6 +2,7 @@ name: Myliewood
 favicon: null
 layout_spectrum: 1
 typography_spectrum: 0.4604707339312881
+title: Título
 cta:
   domain: null
   bucket: null
